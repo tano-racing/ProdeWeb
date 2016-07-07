@@ -1,0 +1,23 @@
+{
+    "name": "nofuemagia/prode",
+    "description": "Description of project Prode.",
+    "authors": [
+        {
+            "name": "Julian Lionti",
+            "email": "racinglocura07@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/common": "2.4.*",
+        "doctrine/dbal": "2.4.*",
+        "doctrine/orm": "2.4.*"
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "config": {
+        "platform": {
+            "php": "5.4"
+        }
+    }
+}
